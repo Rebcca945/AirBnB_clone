@@ -1,1 +1,3 @@
-0x01. AirBnB clone - Web static
+# Web Statics
+
+This project define HTML5 and CSS3
